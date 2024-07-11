@@ -4,6 +4,8 @@
 
 
 [Hao Xu](https://github.com/uxhao-o)<sup>1,2</sup>, Yun Wu<sup>1,2, :email:</sup>, Rui Xie<sup>4</sup>, [Jun Xu](https://faculty.nuist.edu.cn/jxu/zh_CN/index.htm)<sup>3</sup>, Junpeng Wu<sup>4</sup>, Rongpin Wang<sup>5</sup>, Youliang Tian<sup>1,2</sup>
+<br>
+
 <sup>1</sup>  State Key Laboratory of Public Big Data, Guizhou University <br>
 <sup>2</sup>  College of Computer Science and Technology, Guizhou University <br>
 <sup>3</sup>  School of Artificial Intelligence, Nanjing University of Information Science and Technology<br>
