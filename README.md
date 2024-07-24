@@ -11,7 +11,7 @@
 <sup>3</sup>  School of Artificial Intelligence, Nanjing University of Information Science and Technology<br>
 <sup>4</sup>  Zhijin County People’s Hospital<br>
 <sup>5</sup>  Department of Medical Imaging, Guizhou Provincial People’s Hospital<br>
-( \* ) Co-first authors, ( :email: ) Corresponding author.
+ ( :email: ) Corresponding author.
 
 </div>
 
