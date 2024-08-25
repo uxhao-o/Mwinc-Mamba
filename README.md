@@ -16,7 +16,7 @@
 </div>
 
 # Notes
-- This study has been submitted to `IEEE Transactions on Medical Imaging` (TMI) for review.
+- This study has been submitted to `Biomedical Signal Processing and Control` (BSPC) for review.
 - When our paper is accepted, we will publish the code and dataset of Mwinc-Mamba in this repository.
 
 
