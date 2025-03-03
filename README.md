@@ -15,13 +15,18 @@
 
 </div>
 
+# About
+The `SFXRay` dataset is used to research intelligent diagnosis of skeletal fluorosis. It constructed by Professor Yun Wu and his master student [Hao Xu](http://uxhao.com) at Guizhou University. This dataset has published together with paper titled "Convolutional State Space Model with Multi-Window Cross-Scan to Advance the Automatic Diagnosis of Skeletal Fluorosis"  in journal of `Biomedical Signal Processing and Control`. 
+
 # Notes
-- This study has been publiced by `Biomedical Signal Processing and Control` (BSPC).
-- We are currently organising the code and dataset, which is expected to be released in February 2025. Stay tuned!
+- The `SFXRay` dataset has been published.
+- This study has been publiced by `Biomedical Signal Processing and Control` (BSPC). [Here](https://doi.org/10.1016/j.bspc.2024.107439) is our paper.
+- Currently, the `SFXRay` dataset has only provided classification label. In next stage, we will provide segmentation label aimed to achieve more diversified analysis to skeletal fluorosis diagnosis.
 - If you have any questions, feel free to contact us via email `uxhao_o@163.com`.
 
 # Dataset Usage Statement
-- If you use the `SFXRay` dataset provided by this study, you must cite the following two studies in the corresponding paper.
+- This dataset is intended for scientific research use only and is prohibited for all uses other than scientific research.
+- If you use the `SFXRay` dataset, you must cite the following two studies in the corresponding paper.
 
 ```
 @article{xu2025107439,
